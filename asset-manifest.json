@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pl23/static/css/main.e7a0ea69.chunk.css",
+    "main.js": "/pl23/static/js/main.b23e58fd.chunk.js",
+    "main.js.map": "/pl23/static/js/main.b23e58fd.chunk.js.map",
+    "runtime-main.js": "/pl23/static/js/runtime-main.c90b5e5d.js",
+    "runtime-main.js.map": "/pl23/static/js/runtime-main.c90b5e5d.js.map",
+    "static/js/2.28d0a7e8.chunk.js": "/pl23/static/js/2.28d0a7e8.chunk.js",
+    "static/js/2.28d0a7e8.chunk.js.map": "/pl23/static/js/2.28d0a7e8.chunk.js.map",
+    "static/js/3.990ce19a.chunk.js": "/pl23/static/js/3.990ce19a.chunk.js",
+    "static/js/3.990ce19a.chunk.js.map": "/pl23/static/js/3.990ce19a.chunk.js.map",
+    "index.html": "/pl23/index.html",
+    "static/css/main.e7a0ea69.chunk.css.map": "/pl23/static/css/main.e7a0ea69.chunk.css.map",
+    "static/js/2.28d0a7e8.chunk.js.LICENSE.txt": "/pl23/static/js/2.28d0a7e8.chunk.js.LICENSE.txt",
+    "static/media/Rectangle.018c1c92.png": "/pl23/static/media/Rectangle.018c1c92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c90b5e5d.js",
+    "static/js/2.28d0a7e8.chunk.js",
+    "static/css/main.e7a0ea69.chunk.css",
+    "static/js/main.b23e58fd.chunk.js"
+  ]
+}
