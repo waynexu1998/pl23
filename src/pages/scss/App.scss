@@ -1,0 +1,21 @@
+.App {
+	.main {
+		padding: 50px;
+		width: calc(100% - 100px );
+	}
+	.row {
+		&-1 {
+			display: grid; 
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+			gap: 0px 50px;
+			margin-bottom: 15vh;
+
+			&__time {
+				grid-column-start: 5;
+			}
+		}
+		&-2 {
+			margin-bottom: 3vh;
+		}
+	}
+}
