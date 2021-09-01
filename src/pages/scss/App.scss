@@ -17,5 +17,25 @@
 		&-2 {
 			margin-bottom: 3vh;
 		}
+		&-3 {
+			display: grid; 
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+			gap: 0px 50px;
+			margin-bottom: 15vh;
+
+			&__paragraph {
+				grid-column-start: 3;
+				white-space: nowrap;
+				text-transform: uppercase;
+
+				h2 {
+					margin-bottom: 1.8vh;
+				}
+
+				span {
+					color: #F24822;
+				}
+			}
+		}
 	}
 }

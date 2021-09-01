@@ -1,0 +1,33 @@
+.Activelink{
+    display: block;
+    white-space: nowrap;
+
+    h2 {
+        color: #F24822;
+        margin-top: 4px;
+    }
+
+    &-parent {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+    }
+
+    &-wrapper {
+        display: inline-flex;
+        align-items: center;
+        border: #F24822 3px solid;
+        padding: 12px 20px;
+    }
+
+    &-bar {
+        width: 130px;
+        height: 3px;
+        background-color: #F24822;
+        margin: auto 15px;
+    }
+
+    &-arrow {
+        margin-left: 25px;
+    }
+}

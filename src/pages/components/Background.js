@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import grain from '../../images/Rectangle.png';
-import '../scss/Background.scss';
+import './scss/Background.scss';
 
 class Background extends Component {
 	render() {
