@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/pl23/static/css/main.75e12815.chunk.css",
-    "main.js": "/pl23/static/js/main.e352f587.chunk.js",
-    "main.js.map": "/pl23/static/js/main.e352f587.chunk.js.map",
-    "runtime-main.js": "/pl23/static/js/runtime-main.fcd3814e.js",
-    "runtime-main.js.map": "/pl23/static/js/runtime-main.fcd3814e.js.map",
-    "static/js/2.3ca75d7d.chunk.js": "/pl23/static/js/2.3ca75d7d.chunk.js",
-    "static/js/2.3ca75d7d.chunk.js.map": "/pl23/static/js/2.3ca75d7d.chunk.js.map",
-    "static/js/3.f779d26a.chunk.js": "/pl23/static/js/3.f779d26a.chunk.js",
-    "static/js/3.f779d26a.chunk.js.map": "/pl23/static/js/3.f779d26a.chunk.js.map",
-    "index.html": "/pl23/index.html",
-    "static/css/main.75e12815.chunk.css.map": "/pl23/static/css/main.75e12815.chunk.css.map",
-    "static/js/2.3ca75d7d.chunk.js.LICENSE.txt": "/pl23/static/js/2.3ca75d7d.chunk.js.LICENSE.txt",
-    "static/media/Rectangle.018c1c92.png": "/pl23/static/media/Rectangle.018c1c92.png"
+    "main.css": "/waynexu.space/static/css/main.75e12815.chunk.css",
+    "main.js": "/waynexu.space/static/js/main.e352f587.chunk.js",
+    "main.js.map": "/waynexu.space/static/js/main.e352f587.chunk.js.map",
+    "runtime-main.js": "/waynexu.space/static/js/runtime-main.82ed994a.js",
+    "runtime-main.js.map": "/waynexu.space/static/js/runtime-main.82ed994a.js.map",
+    "static/js/2.3ca75d7d.chunk.js": "/waynexu.space/static/js/2.3ca75d7d.chunk.js",
+    "static/js/2.3ca75d7d.chunk.js.map": "/waynexu.space/static/js/2.3ca75d7d.chunk.js.map",
+    "static/js/3.f779d26a.chunk.js": "/waynexu.space/static/js/3.f779d26a.chunk.js",
+    "static/js/3.f779d26a.chunk.js.map": "/waynexu.space/static/js/3.f779d26a.chunk.js.map",
+    "index.html": "/waynexu.space/index.html",
+    "static/css/main.75e12815.chunk.css.map": "/waynexu.space/static/css/main.75e12815.chunk.css.map",
+    "static/js/2.3ca75d7d.chunk.js.LICENSE.txt": "/waynexu.space/static/js/2.3ca75d7d.chunk.js.LICENSE.txt",
+    "static/media/Rectangle.018c1c92.png": "/waynexu.space/static/media/Rectangle.018c1c92.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcd3814e.js",
+    "static/js/runtime-main.82ed994a.js",
     "static/js/2.3ca75d7d.chunk.js",
     "static/css/main.75e12815.chunk.css",
     "static/js/main.e352f587.chunk.js"
