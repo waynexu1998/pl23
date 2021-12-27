@@ -3,6 +3,7 @@ import './scss/App.scss';
 import Background from './components/Background';
 import ActiveLink from './components/ActiveLink';
 import Clock from 'react-live-clock';
+import MuteLink from './components/MuteLink';
 
 function App() {
 	return (
@@ -25,6 +26,24 @@ function App() {
 						<h2>x manufactuer: <span>gmk</span></h2>
 						<h2>x delivery_estimation: <span>(q3 - 2022)</span></h2>
 						<h2>x kits_offered: <span>base, novelties, numpad, spacebar</span></h2>
+					</div>
+				</div>
+				<div className='row-4'>
+					<h2 className='muted'>AWAITING_RESPONSE...</h2>
+				</div>
+				<div className='row-5'>
+					<div>
+						<MuteLink/>
+						<MuteLink/>
+						<MuteLink/>
+					</div>
+					<div className='row-5__terminal'>
+						<div>establishing connection...</div>
+						<div>*******************</div>
+						<div>fetching data...</div>
+						<div>*******************</div>
+						<div>data encrypted...</div>
+						<div>decoded :)</div>
 					</div>
 				</div>
 			</div>

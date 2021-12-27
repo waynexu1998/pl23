@@ -15,7 +15,7 @@
 			}
 		}
 		&-2 {
-			margin-bottom: 3vh;
+			margin-bottom: 24px;
 		}
 		&-3 {
 			display: grid; 
@@ -29,11 +29,36 @@
 				text-transform: uppercase;
 
 				h2 {
-					margin-bottom: 1.8vh;
+					margin-bottom: 16px;
 				}
 
 				span {
 					color: #F24822;
+				}
+			}
+		}
+		&-4 {
+			display: grid; 
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+			gap: 0px 50px;
+			margin-bottom: 24px;
+		}
+		&-5 {
+			display: grid; 
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+			gap: 0px 50px;
+
+			&__terminal {
+				grid-column-start: 4;
+				white-space: nowrap;
+				text-transform: uppercase;
+
+				div {
+					margin-bottom: 16px;
+				}
+
+				div:last-child {
+					margin-bottom: 0px;
 				}
 			}
 		}
